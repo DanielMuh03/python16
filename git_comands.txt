@@ -6,4 +6,15 @@ GIT - система контроля версий
 git init  - инициализация
 .git - создается скрытая папка
 
+git add <file_name> <.> - для проверки статусв
+git commit -m 'comments' - он фиксирует файл и создает хеш сумму
+
+git remote add origin git@github.com:DanielMuh03/python16.git
+
 git clone - просто клон проекта  из удаленного сервера
+
+
+sdfgdg
+dfgfhgk
+hhmh
+asdasdasdasd
